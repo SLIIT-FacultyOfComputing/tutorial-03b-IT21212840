@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T09:03:57.350Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="8y1e5vH0v1OO3DikP6BQ" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-07T09:18:38.421Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="-qmoFrHfPfDjM39sH5tf" version="16.6.6" type="github">
   <diagram id="mj7tTXOEnFPmMHh86Kaf" name="Page-1">
-    <mxGraphModel dx="1114" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1485" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="4qjSvbQWFWAB_teIWlTG-3" value="5. searches details for houses on other websites.&lt;br&gt;&lt;br&gt;6. get ideas from other trusted individuals." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="440" width="160" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="4qjSvbQWFWAB_teIWlTG-5" value="7. pay an advance for apartment company.&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontColor=none;" vertex="1" parent="1">
+        <mxCell id="4qjSvbQWFWAB_teIWlTG-5" value="7. Take decision to buy that apartment.&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontColor=none;" vertex="1" parent="1">
           <mxGeometry x="760" y="440" width="160" height="240" as="geometry" />
         </mxCell>
         <mxCell id="4qjSvbQWFWAB_teIWlTG-8" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontColor=none;" vertex="1" parent="1">
@@ -19,11 +19,35 @@
         <mxCell id="4qjSvbQWFWAB_teIWlTG-9" value="&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;1. search about apartments on a web browser.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="440" width="160" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="4qjSvbQWFWAB_teIWlTG-10" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontColor=none;" vertex="1" parent="1">
+        <mxCell id="4qjSvbQWFWAB_teIWlTG-10" value="9. consume the apartment." style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontColor=none;" vertex="1" parent="1">
           <mxGeometry x="1240" y="440" width="160" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="4qjSvbQWFWAB_teIWlTG-11" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontColor=none;" vertex="1" parent="1">
+        <mxCell id="4qjSvbQWFWAB_teIWlTG-11" value="10. shares the experience.&lt;br&gt;&lt;br&gt;11. Give rating" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontColor=none;" vertex="1" parent="1">
           <mxGeometry x="1480" y="440" width="160" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="4qjSvbQWFWAB_teIWlTG-13" value="Awareness" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="340" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4qjSvbQWFWAB_teIWlTG-14" value="Explore" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="285" y="340" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4qjSvbQWFWAB_teIWlTG-15" value="Compare" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="350" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4qjSvbQWFWAB_teIWlTG-16" value="Disision" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="765" y="350" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4qjSvbQWFWAB_teIWlTG-17" value="Purchase" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1005" y="350" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4qjSvbQWFWAB_teIWlTG-18" value="Use" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1245" y="350" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4qjSvbQWFWAB_teIWlTG-19" value="Advocacy&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="350" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4qjSvbQWFWAB_teIWlTG-20" value="&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;8. pay an advance for the apartment company.&lt;/span&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="440" width="160" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
